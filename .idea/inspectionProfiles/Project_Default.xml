@@ -1,0 +1,40 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DjangoUnresolvedUrlInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="}" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tuple.format" />
+          <option value="anfisa2sprint.anfisa_for_friends.ice_cream.models.core" />
+          <option value="object.posts" />
+          <option value="object.category_posts" />
+          <option value="django_sprint3.tests.conftest" />
+          <option value="super.get_context_data" />
+          <option value="blog.views.PostUpdateMixin.*" />
+          <option value="object.dispatch" />
+          <option value="blog.views.CommentUpdateMixin.request" />
+          <option value="blog.views.CommentUpdateMixin.get_object" />
+          <option value="posts.models.Group.objects" />
+          <option value="posts.models.Post.objects" />
+          <option value="posts.models.Follow.objects" />
+          <option value="object.*" />
+          <option value="api.permissions.PermissionMixin.action" />
+          <option value="reviews.models.Category.*" />
+          <option value="reviews.models.Genre.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
